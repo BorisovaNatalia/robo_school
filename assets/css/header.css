@@ -1,0 +1,33 @@
+.header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    background: #141024;
+    color: white;
+}
+
+.header_logo {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.menu_list {
+    display: flex;
+}
+
+.menu_item {
+    font-size: 20px;
+}
+
+.menu_item:not(:last-child) {
+    margin-right: 40px;
+}
+
+.header_phone {
+    font-weight: 600;
+    font-size: 30px;
+}

@@ -1,0 +1,53 @@
+.make_order_container {
+    width: 100%;
+    height: 460px;
+    background: #D52027;
+    padding-left: 440px;
+    display: flex;
+}
+
+.make_order_lable {
+    margin-top: 106px;
+    width: 476px;
+    color: white;
+}
+
+.expare_datedescription {
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.make_order_fields {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 87px;
+}
+
+.input_item {
+    width: 500px;
+    height: 64px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding-left: 20px;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+input::placeholder {
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.send_order_button {
+    width: 500px;
+    height: 64px;
+    border-radius: 5px;
+    background: #141024;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+}

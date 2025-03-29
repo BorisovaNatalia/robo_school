@@ -1,0 +1,39 @@
+@import 'assets/css/myReset.css';
+@import 'assets/css/footer.css';
+@import 'assets/css/header.css';
+@import 'assets/css/hero.css';
+@import 'assets/css/aboutUs.css';
+@import 'assets/css/courseBenefits.css';
+@import 'assets/css/trainers.css';
+@import 'assets/css/tariff.css';
+@import 'assets/css/makeOrder.css';
+
+.red_button {
+    background: #D52027;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #141024;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+h5 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #141024;
+}

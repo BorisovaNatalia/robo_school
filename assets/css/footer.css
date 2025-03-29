@@ -1,0 +1,27 @@
+.footer {
+    height: 159px;
+    width: 100%;
+    background: #141024;
+    color: white;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    justify-content: space-between;
+}
+
+.logo_footer {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.cooperate_footer {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer_phone {
+    font-size: 30px;
+    font-weight: 600;
+}
